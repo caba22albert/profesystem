@@ -1,1 +1,1 @@
-# sistema-profesor
+# profesystem
